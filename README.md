@@ -1,4 +1,4 @@
-# AI Job Salary Prediction
+# Job Salary Prediction
 
 This project uses machine learning to predict the annual salary of AI and technology professionals based on job-related characteristics. It includes a Jupyter notebook for data analysis, preprocessing, feature engineering, model training, and evaluation, along with a trained XGBoost model and a Streamlit application for salary prediction.
 
@@ -29,13 +29,13 @@ This project uses machine learning to predict the annual salary of AI and techno
 1. Clone the repository:
 
    ```bash
-   git clone <YOUR-GITHUB-REPOSITORY-URL>
+   git clone <https://github.com/devsharmahere/job-salary-prediction>
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd ai-job-salary-prediction
+   cd job-salary-prediction
    ```
 
 3. Install dependencies:
