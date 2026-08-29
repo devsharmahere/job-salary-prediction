@@ -1,0 +1,13 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Auto Save
+.ipynb_checkpoints/
+
+# Datasets
+*.csv
